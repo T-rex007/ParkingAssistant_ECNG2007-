@@ -12,5 +12,5 @@ Documentation
 Implementation
 -Adisa Grant
 -Daniel John
--Deon Apaddo 
+-Deon Appadoo 
 -Akim Murray 
